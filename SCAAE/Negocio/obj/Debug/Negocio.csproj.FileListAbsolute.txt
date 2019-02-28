@@ -1,0 +1,9 @@
+C:\Users\otonielsansoresek\source\repos\SCAAE\Negocio\bin\Debug\Negocio.dll
+C:\Users\otonielsansoresek\source\repos\SCAAE\Negocio\bin\Debug\Negocio.pdb
+C:\Users\otonielsansoresek\source\repos\SCAAE\Negocio\bin\Debug\Datos.dll
+C:\Users\otonielsansoresek\source\repos\SCAAE\Negocio\bin\Debug\Datos.pdb
+C:\Users\otonielsansoresek\source\repos\SCAAE\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\otonielsansoresek\source\repos\SCAAE\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\otonielsansoresek\source\repos\SCAAE\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\otonielsansoresek\source\repos\SCAAE\Negocio\obj\Debug\Negocio.dll
+C:\Users\otonielsansoresek\source\repos\SCAAE\Negocio\obj\Debug\Negocio.pdb

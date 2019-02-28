@@ -1,0 +1,6 @@
+C:\Users\otonielsansoresek\source\repos\SCAAE\Entidad\bin\Debug\Entidad.dll
+C:\Users\otonielsansoresek\source\repos\SCAAE\Entidad\bin\Debug\Entidad.pdb
+C:\Users\otonielsansoresek\source\repos\SCAAE\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\otonielsansoresek\source\repos\SCAAE\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\otonielsansoresek\source\repos\SCAAE\Entidad\obj\Debug\Entidad.dll
+C:\Users\otonielsansoresek\source\repos\SCAAE\Entidad\obj\Debug\Entidad.pdb
